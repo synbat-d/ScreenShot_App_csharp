@@ -12,3 +12,7 @@ obj/
 # Installer outputs
 *.msi
 *.exe
+
+# Allow publish folder (override previous rules)
+!publish/
+!publish/**
